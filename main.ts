@@ -21,14 +21,14 @@ const CANDIDATES: Candidate[] = [
   { text: `Today the office kettle broke, so the security guard made tea for the whole floor in his own pot, one cup at a time, remembering everyone's sugar.`, warmth: 5, surprise: 3, concrete: 5, fresh: 3, tight: 3 },
   { text: `My grandfather video-called me by accident at 7 a.m., decided it was fate, and spent ten minutes showing me his tomato plant like a newborn.`, warmth: 5, surprise: 4, concrete: 5, fresh: 4, tight: 3 },
   { text: `A kid at the market dropped his ice cream, and the seller quietly handed him a bigger one, saying the first one was "just a practice scoop."`, warmth: 5, surprise: 5, concrete: 5, fresh: 4, tight: 3 },
-  { text: `The rain started at exactly the moment my laundry finished drying — I heard the first drops hit the line as I folded the last warm shirt.`, warmth: 3, surprise: 3, concrete: 4, fresh: 4, tight: 3 },
+  { text: `My neighbor's parrot learned one new word from the construction crew — "breaktime!" — and now shouts it at 10 and 3 sharp, and the whole crew actually stops.`, warmth: 5, surprise: 5, concrete: 5, fresh: 5, tight: 3 },
   { text: `Someone returned my lost umbrella to the café with a note inside the handle: "It rained twice. We had a good run. — Your umbrella's plus-one."`, warmth: 4, surprise: 5, concrete: 4, fresh: 5, tight: 3 },
   { text: `At 5:40 the power cut out mid-call, and for one silent second the whole neighborhood's kids cheered from their balconies like we'd scored.`, warmth: 4, surprise: 4, concrete: 4, fresh: 4, tight: 3 },
-  { text: `The stray cat who has ignored our street for a year chose today, of all days, to sleep on my scooter — and purred when I apologized for needing it.`, warmth: 4, surprise: 3, concrete: 4, fresh: 4, tight: 3 },
+  { text: `Someone keeps leaving tiny paper boats in the library's returns slot; today's had a passenger — a ladybug, delivered safely to page one of the atlas.`, warmth: 4, surprise: 5, concrete: 5, fresh: 5, tight: 3 },
   { text: `My dad texted me a photo of his first-ever homemade bread with the caption "he has your nose" — the loaf is, somehow, unmistakably smug.`, warmth: 4, surprise: 5, concrete: 4, fresh: 5, tight: 3 },
   { text: `The elevator held its doors for the delivery man, the delivery man held them for the old lady, and she held up everyone to say the soup smelled wonderful.`, warmth: 5, surprise: 3, concrete: 4, fresh: 3, tight: 3 },
-  { text: `Today my code compiled on the first try, so I did the only sensible thing: closed the laptop, bought bakso, and told no one, to keep the luck unspent.`, warmth: 3, surprise: 3, concrete: 4, fresh: 4, tight: 3 },
-  { text: `A street musician switched songs mid-note when he saw the bride — the whole crossing stopped, and the traffic light turned green twice for nobody.`, warmth: 4, surprise: 4, concrete: 4, fresh: 4, tight: 3 },
+  { text: `The crossing guard retired today; at 7:15 the schoolkids stopped mid-crossing, saluted her with their lunchboxes, and she cried laughing into her whistle.`, warmth: 5, surprise: 4, concrete: 5, fresh: 4, tight: 3 },
+  { text: `At the food court, a toddler conducted the beeping fryers like an orchestra — two cooks bowed at the final beep, and the whole queue applauded the potatoes.`, warmth: 5, surprise: 5, concrete: 4, fresh: 5, tight: 3 },
 ];
 
 // Judge's order: warmth first, then surprise, concreteness, fresh wording.
